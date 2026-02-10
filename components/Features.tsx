@@ -23,7 +23,7 @@ export default function Features() {
     {
       icon: Star,
       title: '5-Star Rated Patient Care',
-      description: 'Consistently recognized for excellence by our patients, we're proud to deliver care that exceeds expectations.'
+      description: 'Consistently recognized for excellence by our patients, we\'re proud to deliver care that exceeds expectations.'
     },
     {
       icon: MapPin,
@@ -33,7 +33,7 @@ export default function Features() {
     {
       icon: Clock,
       title: 'Emergency Services Available',
-      description: 'When dental emergencies happen, we're here for you with prompt, professional care to relieve pain and restore your smile.'
+      description: 'When dental emergencies happen, we\'re here for you with prompt, professional care to relieve pain and restore your smile.'
     }
   ]
 
